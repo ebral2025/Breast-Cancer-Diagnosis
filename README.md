@@ -1,0 +1,1 @@
+This project develops a machine learning model to predict breast cancer using clinical tumor data. By selecting the 6 most important features from an original set of 30, the model maintains high accuracy while reducing complexity. The approach improves interpretability and efficiency, making the model more practical for real-world healthcare applications.
